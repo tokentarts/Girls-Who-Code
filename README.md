@@ -7,5 +7,5 @@ The information on these slides are published by Raspberry Pi Foundation
 https://projects.raspberrypi.org/en/codeclub/python-module-1
 https://projects.raspberrypi.org/en/codeclub/python-module-2
 
-rock-paper-scissors
+rock-paper-scissors <br/>
 https://github.com/raspberrypilearning/rock-paper-scissors
