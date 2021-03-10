@@ -2,9 +2,10 @@
 from random import randint
 
 player = input('rock (r), paper (p), scissors (s) ?')
-print(player, 'vs', end=' ')
 computer = randint(1, 3)
+#print(player, 'vs', end=' ')
 # print(computer)
+print(f"{player} vs {end=' '}")
 
 if computer == 1:
     rival = 'r'
